@@ -17,10 +17,7 @@
   "author": "azer",
   "license": "BSD",
   "dependencies": {
-    "parallel-loop": "0.0.1",
-    "serial-loop": "0.0.1"
-  },
-  "devDependencies": {
-    "prova": "^1.10.0"
+    "parallel-loop": "git://github.com/azer/parallel-loop.git#054b0d3",
+    "serial-loop": "git://github.com/azer/serial-loop.git#99c6271"
   }
 }
